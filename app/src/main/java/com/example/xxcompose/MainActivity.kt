@@ -69,6 +69,7 @@ class MainActivity : ComponentActivity() {
 /**
  * 底部导航
  */
+@Preview
 @Composable
 fun XxNavBar() {
     Row(
